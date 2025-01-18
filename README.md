@@ -17,14 +17,13 @@ This is the login page where users can enter their credentials.
 
 ### Screenshot 2: SignUp Page 
 This is the signup page where users can register their credentials.
-![Login Page](Screenshots\Aquaconnect\Signup page.png")
+![Login Page](https://github.com/kaaviyak2004/AquaConnect/blob/ef56cd87e40cf2bf0b4171cff1ce37f61523529f/screenshots/Signup%20page.png)
 
 ### Screenshot 3: Dashboard
 The dashboard provides an overview of user activities and statistics.
-![Dashboard]("C:\Users\Admin\Pictures\Screenshots\Aquaconnect\Dashboard Page (1).png")
-![Dashboard]("C:\Users\Admin\Pictures\Screenshots\Aquaconnect\Dashboard Page (2).png")
-![Dashboard]("C:\Users\Admin\Pictures\Screenshots\Aquaconnect\Dashboard 3.png")
-
+![Dashboard](https://github.com/kaaviyak2004/AquaConnect/blob/ef56cd87e40cf2bf0b4171cff1ce37f61523529f/screenshots/Dashboard%20Page%20(1).png)
+![Dashboard](https://github.com/kaaviyak2004/AquaConnect/blob/ef56cd87e40cf2bf0b4171cff1ce37f61523529f/screenshots/Dashboard%20Page%20(2).png)
+![Dashboard](https://github.com/kaaviyak2004/AquaConnect/blob/ef56cd87e40cf2bf0b4171cff1ce37f61523529f/screenshots/Dashboard%203.png)
 
 
 
