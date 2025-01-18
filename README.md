@@ -13,7 +13,7 @@ This web application enables seamless ordering of water cans, sump, and tank sup
 
 ### Screenshot 1: Login Page
 This is the login page where users can enter their credentials.
-![Login Page](AquaConnect/screenshots/Login Page.png)
+![Login Page](https://github.com/kaaviyak2004/AquaConnect/blob/d58ee7a70e81a5f18a3d8623c22105eff2972555/screenshots/Login%20Page.png)
 
 ### Screenshot 2: SignUp Page 
 This is the signup page where users can register their credentials.
